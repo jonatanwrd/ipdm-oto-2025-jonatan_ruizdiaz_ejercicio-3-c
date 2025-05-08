@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ejercicio3c</string>
+    <string name="first_title">All tasks completed</string>
+    <string name="first_description">Nice work!</string>
+    <string name="second_title">All tasks completed</string>
+    <string name="second_description">Nice work!</string>
+    <string name="third_title">All tasks completed</string>
+    <string name="third_description">Nice work!</string>
+    <string name="fourth_title">All tasks completed</string>
+    <string name="fourth_description">Nice work!</string>
+</resources>
